@@ -1,4 +1,4 @@
-##Earley's Implementation
+## Earley's Implementation
 
 This is an implementation of the Earley algorithm, a algorithm for parsing sentences given a grammar. This algorithm not only sees if the sentence is recognized by the grammar (if it's possible) but also gives the best parse by looking at the weights of each rule (lower weight means that it "costs" less to use, so it's considered a better parse). 
 
