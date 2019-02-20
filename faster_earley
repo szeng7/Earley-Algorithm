@@ -1,0 +1,2 @@
+#! /usr/bin/env bash
+pypy3 faster_earley.py $*
